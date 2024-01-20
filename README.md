@@ -16,5 +16,7 @@ P03. X chromosome association analysis (XWAS)
 
 P04. Regulome wide association analysis (RWAS)
 
-P05. Coloc analysis 
+P05. Coloc analysis
+
+P06. Rare variant gene burden analysis
 
