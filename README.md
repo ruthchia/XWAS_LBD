@@ -6,7 +6,7 @@ This repository contains code used in data processing, quality control, analysis
 
 ___
 
-Code for each analysis is deposited as individual notebooks:
+Codes for each analysis is deposited as individual notebooks:
 
 `P01`. QC of X chromosome genotype data
 
