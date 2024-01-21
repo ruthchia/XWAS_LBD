@@ -1,8 +1,8 @@
-# XWAS_LBD
-Genetic analysis of chromosome X in patients with Lewy body dementia nominates new genetic loci
+# Analysis codes for XWAS LBD
 
-This repo contains the notebooks for the analyses on chromosome X for the LBD dataset reported in the following manuscript:
+This repository contains code used in data processing, quality control, analysis and visualisation presented in the article 
 `Genetic analysis of chromosome X in patients with Lewy body dementia nominates new genetic loci` published in Nature Parkinson Journal xxx.
+
 
 ___
 
